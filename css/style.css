@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    font-family: "roboto"
+}
+
+.caja{
+    border-radius: 5px;
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: white
+}
+
+.titulo{
+    padding: 15px;
+}
+
+.icono-html{
+    width: 40px;
+    float: left;
+    padding-right: 10px;
+}
+
+.titulo h4{
+    margin: 0PX;
+}
+
+.titulo p{
+    margin: 0px;
+}
+
+.opciones{
+    float: right;
+    width: 30px;
+}
+
+.foto img{
+    width: 100%;
+}
+
+.contenido{
+    padding: 15px;
+}
+
+.contenido img{
+    width: 50px;
+    border-radius: 10px;
+}
+
+.guardar{
+    float: right;
+}
