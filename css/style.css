@@ -31,7 +31,11 @@ body{
 
 .opciones{
     float: right;
-    width: 30px;
+    width: 25px;
+}
+
+.foto {
+    margin: 0px;
 }
 
 .foto img{
