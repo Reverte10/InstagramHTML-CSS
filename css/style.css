@@ -5,33 +5,43 @@
 
 .caja{
     border-radius: 5px;
-    max-width: 400px;
-    margin: auto;
+    max-width: 450px;
     margin-top: 50px;
-    background-color: white
+    background-color: white;
+    padding: 0px;
 }
 
 .titulo{
-    padding: 15px;
+    align-items: center;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
 .icono-html{
     width: 40px;
     float: left;
-    padding-right: 10px;
+
 }
 
-.titulo h4{
-    margin: 0PX;
+.titulo h5{
+    margin-top: 5PX;
+    margin-bottom: 0px;
 }
 
 .titulo p{
     margin: 0px;
 }
 
+.img {
+    margin-bottom: 0px;
+}
+
 .opciones{
-    float: right;
+    justify-content: flex-end;
+    /* float: right; */
     width: 20px;
+    margin-bottom: 0px;
 }
 
 .foto {
@@ -52,5 +62,5 @@
 }
 
 .guardar{
-    float: right;
+    justify-content: flex-end;
 }
